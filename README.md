@@ -1,7 +1,7 @@
 # sample_rego_integrity_checks
 This repo has two objectives as follows:
 
-1) It showcases Rego language. For this purpose there is also a companion documentation in my blog @ https://github.com/jacace/sample_rego_integrity_checks.
+1) It showcases Rego language. For this purpose there is also a companion documentation in my blog @ https://jacace.medium.com/rego-tutorial-6e6440052905
 To run the RuleSets just use the following command:
 ./opa eval --fail-defined -i input.json -d example.rego "data.example.violation[x]" echo $?
 
