@@ -1,0 +1,10 @@
+{
+    "items": [
+        {"id": "1", "productName": "Thingy A", "numViews":1,  "priority": "high",   "description": "awesome thing." },
+        {"id": "2", "productName": "Thingy B", "numViews":1,  "priority": "low", "description": "available at http://thingb.com" },
+        {"id": "3", "productName": "Thingy B", "numViews":5,  "priority": "low",    "description": null },
+        {"id": "4", "productName": "Thingy D", "numViews":10, "priority": "low",    "description": "checkout https://thingd.ca" },
+        {"id": "5", "productName": "Thingy E", "numViews":12, "priority": "high",   "description": null }
+    ]
+}
+
